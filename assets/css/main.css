@@ -781,7 +781,7 @@
 				}
 
 				ul.icons li a:hover:before {
-					text-shadow: 1.25px 0px 0px		#18FFFF, -1.25px 0px 0px		#18FFFF, 0px 1.25px 0px 		#18FFFF, 0px -1.25px 0px 	red;
+					text-shadow: 1.25px 0px 0px		#18FFFF, -1.25px 0px 0px		#18FFFF, 0px 1.25px 0px 		#18FFFF, 0px -1.25px 0px 		#18FFFF;
 				}
 
 				ul.icons li a:before {

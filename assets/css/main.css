@@ -772,15 +772,16 @@
 					text-transform: none !important;
 					font-family: 'Font Awesome 5 Free';
 					font-weight: 400;
+					
 				}
 
 				ul.icons li a:before {
 					color: #ffffff;
-					text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;
+					text-shadow: 1.25px 0px 0px #b9bcbe, -1.25px 0px 0px #b9bcbe, 0px 1.25px 0px #b9bcbe, 0px -1.25px 0px #c8cccf;
 				}
 
 				ul.icons li a:hover:before {
-					text-shadow: 1.25px 0px 0px #ff7496, -1.25px 0px 0px #ff7496, 0px 1.25px 0px #ff7496, 0px -1.25px 0px #ff7496;
+					text-shadow: 1.25px 0px 0px	#76FF03, -1.25px 0px 0px	#76FF03, 0px 1.25px 0px 	#76FF03, 0px -1.25px 0px 	#76FF03;
 				}
 
 				ul.icons li a:before {
@@ -796,7 +797,7 @@
 				}
 
 				ul.icons li a:hover {
-					border-color: #ff7496;
+					border-color: 	#76FF03;
 				}
 
 		@media screen and (max-width: 480px) {

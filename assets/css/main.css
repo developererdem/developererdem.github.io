@@ -112,10 +112,10 @@
 	body {
 		height: 100%;
 		background-color: #ffffff;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/allah1.png");
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/allah1.png");
-		background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/allah1.png");
-		background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/allah1.png");
+		background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(255, 166, 150, 0) 5%, rgba(202, 202, 202, 0)), url("../../images/arerdem.jpg");
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(255, 166, 150, 0) 5%, rgba(82, 82, 82, 0)), url("../../images/arerdem.jpg");
+		background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(255, 166, 150, 0) 5%, rgba(56, 56, 56, 0)), url("../../images/arerdem.jpg");
+		background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(255, 166, 150, 0) 5%, rgba(49, 49, 49, 0)), url("../../images/arerdem.jpg");
 		background-repeat: repeat,			no-repeat,			no-repeat;
 		background-size: 100px 100px, cover,				cover;
 		background-position: top left,		center center,		bottom center;
@@ -133,10 +133,10 @@
 			opacity: 0;
 			z-index: 1;
 			background-color: #ffffff;
-			background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
-			background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
-			background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
-			background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
+			background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(0, 0, 0, 0.774) 5%, rgba(0, 2, 2, 0.678));
+			background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(0, 0, 0, 0.644) 5%, rgba(0, 3, 3, 0.753));
+			background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(0, 0, 0, 0.61) 5%, rgba(0, 0, 0, 0.664));
+			background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(0, 0, 0, 0.719) 5%, rgba(0, 11, 12, 0.76));
 			background-repeat: repeat,			no-repeat;
 			background-size: 100px 100px, cover;
 			background-position: top left,		center center;
@@ -196,11 +196,11 @@
 		}
 
 		a:hover {
-			color: #26C6DA;
+			color: #09ff00;
 		}
 
 	strong, b {
-		color: #313f47;
+		color: #ffffff;
 	}
 
 	em, i {
@@ -212,7 +212,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #313f47;
+		color: #ffffff;
 		line-height: 1.5;
 		margin: 0 0 0.75em 0;
 	}
@@ -349,7 +349,7 @@
 		}
 
 	label {
-		color: #313f47;
+		color: #726868;
 		display: block;
 		font-size: 0.9em;
 		margin: 0 0 0.75em 0;
@@ -781,7 +781,7 @@
 				}
 
 				ul.icons li a:hover:before {
-					text-shadow: 1.25px 0px 0px		#29B6F6, -1.25px 0px 0px		#29B6F6, 0px 1.25px 0px 		#29B6F6, 0px -1.25px 0px 				#29B6F6;
+					text-shadow: 1.25px 0px 0px		#51ff00, -1.25px 0px 0px		#51ff00, 0px 1.25px 0px 		#51ff00, 0px -1.25px 0px 				#51ff00;
 				}
 
 				ul.icons li a:before {
@@ -797,7 +797,7 @@
 				}
 
 				ul.icons li a:hover {
-					border-color: 		#18FFFF;
+					border-color: 		#0000004d;
 				}
 
 		@media screen and (max-width: 480px) {
@@ -842,8 +842,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: 	#18FFFF;
-			color: 	#18FFFF !important;
+			border-color: 	#0000002f;
+			color: 	#00070762 !important;
 		}
 
 		input[type="submit"].icon,
@@ -915,7 +915,7 @@
 		-ms-transition: opacity 1s ease, -ms-transform 1s ease;
 		transition: opacity 1s ease, transform 1s ease;
 		padding: 4.5em 3em 3em 3em ;
-		background: #ffffff;
+		background: #00000091;
 		border-radius: 4px;
 		cursor: default;
 		max-width: 100%;
@@ -936,7 +936,7 @@
 				display: block;
 				margin: 0 auto;
 				border-radius: 100%;
-				box-shadow: 0 0 0 1.5em #ffffff;
+				box-shadow:  #000000;
 				max-width: 150px;																
 			}
 

@@ -112,10 +112,10 @@
 	body {
 		height: 100%;
 		background-color: #ffffff;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(255, 166, 150, 0) 5%, rgba(202, 202, 202, 0)), url("../../images/allah1.png");
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(255, 166, 150, 0) 5%, rgba(82, 82, 82, 0)), url("../../images/allah1.png");
-		background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(255, 166, 150, 0) 5%, rgba(56, 56, 56, 0)), url("../../images/allah1.png");
-		background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(255, 166, 150, 0) 5%, rgba(49, 49, 49, 0)), url("../../images/allah1.png");
+		background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(255, 166, 150, 0) 5%, rgba(202, 202, 202, 0)), url("../../images/uf\ fena.jpg");
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(255, 166, 150, 0) 5%, rgba(82, 82, 82, 0)), url("../../images/uf\ fena.jpg");
+		background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(255, 166, 150, 0) 5%, rgba(56, 56, 56, 0)), url("../../images/uf\ fena.jpg");
+		background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(255, 166, 150, 0) 5%, rgba(49, 49, 49, 0)), url("../../images/uf\ fena.jpg");
 		background-repeat: repeat,			no-repeat,			no-repeat;
 		background-size: 100px 100px, cover,				cover;
 		background-position: top left,		center center,		bottom center;
@@ -196,7 +196,7 @@
 		}
 
 		a:hover {
-			color: #ff0000;
+			color: #ffffff;
 		}
 
 	strong, b {
@@ -777,11 +777,11 @@
 
 				ul.icons li a:before {
 					color: #ffffff;
-					text-shadow: 1.25px 0px 0px #b9bcbe, -1.25px 0px 0px #b9bcbe, 0px 1.25px 0px #b9bcbe, 0px -1.25px 0px #c8cccf;
+					text-shadow: 1.25px 0px 0px #bbbeb9, -1.25px 0px 0px #b9bcbe, 0px 1.25px 0px #b9bcbe, 0px -1.25px 0px #c8cccf;
 				}
 
 				ul.icons li a:hover:before {
-					text-shadow: 1.25px 0px 0px		#ff0000, -1.25px 0px 0px		#ff0000, 0px 1.25px 0px 		#ff0000, 0px -1.25px 0px 				#ff0000;
+					text-shadow: 1.25px 0px 0px		#000000, -1.25px 0px 0px		#000000, 0px 1.25px 0px 		#000000, 0px -1.25px 0px 				#000000;
 				}
 
 				ul.icons li a:before {
@@ -983,7 +983,7 @@
 		align-self: flex-end;
 		width: 100%;
 		padding: 1.5em 0 0 0;
-		color: rgba(255, 255, 255, 0.75);
+		color: rgba(255, 0, 0, 0.75);
 		cursor: default;
 		text-align: center;
 	}
@@ -999,7 +999,7 @@
 				display: inline-block;
 				margin: 0 0 0 0.45em;
 				padding: 0 0 0 0.85em;
-				border-left: solid 1px rgba(255, 255, 255, 0.5);
+				border-left: solid 1px rgba(255, 0, 0, 0.5);
 				line-height: 1;
 			}
 

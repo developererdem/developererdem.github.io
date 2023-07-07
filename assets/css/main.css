@@ -120,6 +120,7 @@
 		background-size: 100px 100px, cover,				cover;
 		background-position: top left,		center center,		bottom center;
 		background-attachment: fixed,			fixed,				fixed;
+		opacity: 1 !important;
 	}
 
 		body:after {
@@ -936,7 +937,7 @@
 				display: block;
 				margin: 0 auto;
 				border-radius: 100%;
-				box-shadow:  #000000;
+				box-shadow:  #rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
 				max-width: 150px;																
 			}
 

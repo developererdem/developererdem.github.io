@@ -226,7 +226,6 @@
 		font-size: 1.85em;
 		letter-spacing: 0.22em;
 		margin: 0 0 0.525em 0;
-		opacity: 1;
 	}
 
 	h2 {
@@ -920,7 +919,7 @@
 		border-radius: 4px;
 		cursor: default;
 		max-width: 100%;
-		opacity: 0.95;
+		opacity: 1;
 		position: relative;
 		text-align: center;
 		width: 27em;

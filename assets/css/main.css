@@ -915,11 +915,11 @@
 		-ms-transition: opacity 1s ease, -ms-transform 1s ease;
 		transition: opacity 1s ease, transform 1s ease;
 		padding: 4.5em 3em 3em 3em ;
-		background: #00000091;
+		background: #111;
 		border-radius: 4px;
 		cursor: default;
 		max-width: 100%;
-		opacity: 1;
+		opacity: 0.85;
 		position: relative;
 		text-align: center;
 		width: 27em;
